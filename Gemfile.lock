@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fastimage (2.2.7)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  fastimage
+
+BUNDLED WITH
+   2.4.21
