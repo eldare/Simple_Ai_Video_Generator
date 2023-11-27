@@ -1,5 +1,0 @@
-elevenlabs==0.2.9
-pydub==0.25.1
-openai==0.27.5
-Pillow==9.5.0
-urllib3==1.26.15
