@@ -1,4 +1,4 @@
-# Simple Ai Video Generator
+# Simple Ai Video Generator (PoC)
 <img src="cat_playing_cards_dalle_test.jpg" width="250px">
 ^^ The amazing Dalle-2 API /s
 
